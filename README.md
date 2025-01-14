@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yatharthgill
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me EMAIL:-yatharthchaudhary05@gmail.com
 - 
