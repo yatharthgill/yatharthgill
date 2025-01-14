@@ -25,6 +25,9 @@ Welcome to my GitHub profile! I'm passionate about web development and currently
 ### Databases
 - MongoDB, MySQL
 
+### Programming Languages
+- C++
+
 ### Other Tools
 - Git & GitHub
 - VS Code
