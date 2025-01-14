@@ -1,11 +1,44 @@
-- 👋 Hi, I’m @yatharthgill
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me EMAIL:-yatharthchaudhary05@gmail.com
-- 
+# Hi there, I'm Yatharth Gill! 👋
 
-<!---
-yatharthgill/yatharthgill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about web development and currently diving deeper into full-stack web development. Here's a bit more about me:
+
+---
+
+## 🌟 About Me
+
+- 👀 **Interests**: Web development, designing intuitive user interfaces, and exploring the latest technologies in the development world.
+- 🌱 **Currently Learning**: Full-stack web development, with a focus on modern frameworks like React, Node.js, and databases like MongoDB.
+- 💞️ **Looking to Collaborate**: On exciting web development projects, open-source contributions, and innovative ideas to solve real-world problems.
+- 📫 **How to Reach Me**: Feel free to email me at **yatharthchaudhary05@gmail.com**.
+
+---
+
+## 🚀 Skills & Tools
+
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Tailwind CSS, Bootstrap
+
+### Backend
+- Node.js, Express.js
+
+### Databases
+- MongoDB, MySQL
+
+### Other Tools
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 📈 GitHub Stats
+![Yatharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatharthgill&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+- Email: **yatharthchaudhary05@gmail.com**
+- LinkedIn: [Yatharth Gill](https://linkedin.com/in/your-linkedin-profile) *(Update this link with your LinkedIn profile)*
+
+Let's build something amazing together! 🚀
