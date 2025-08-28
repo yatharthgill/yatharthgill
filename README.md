@@ -31,7 +31,7 @@ Tip: This is your Profile README. It shows on your GitHub profile if the repo is
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,nodejs,express,fastapi,django,mongodb,mysql,git,vercel,postman,cpp" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,nodejs,express,fastapi,mongodb,mysql,git,vercel,postman,cpp,python" alt="Tech stack icons">
 </p>
 
 - Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Tailwind CSS, Bootstrap
