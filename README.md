@@ -121,12 +121,6 @@ A minimal, performance-focused portfolio to showcase projects and skills.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yatharthgill&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
----
-
-## 🚀 What I’m Working On
-- Improving JobApp’s matching and resume parsing
-- Adding more analytics and workout templates to WorkoutBuddy
-- Iterating on my portfolio with new sections and micro‑interactions
 
 ---
 
