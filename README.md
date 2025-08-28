@@ -35,7 +35,7 @@ Tip: This is your Profile README. It shows on your GitHub profile if the repo is
 </p>
 
 - Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Tailwind CSS, Bootstrap
-- Backend: Node.js, Express.js, FastAPI, Django
+- Backend: Node.js, Express.js, FastAPI
 - Databases: MongoDB, MySQL
 - Tools: Git & GitHub, Vercel, Postman, VS Code
 - Languages: C++
