@@ -38,7 +38,7 @@ Tip: This is your Profile README. It shows on your GitHub profile if the repo is
 - Backend: Node.js, Express.js, FastAPI
 - Databases: MongoDB, MySQL
 - Tools: Git & GitHub, Vercel, Postman, VS Code
-- Languages: C++
+- Languages: C++, JavaScript, Python
 
 ---
 
